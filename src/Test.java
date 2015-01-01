@@ -10,7 +10,8 @@ public class Test {
 //        SameTree.test();
 //        ReverseInteger.test();
 //        TwoSum.test();
-        MedianOfTwoSortedArrays.test();
+//        MedianOfTwoSortedArrays.test();
+        LongestSubstringWithoutRepeatingCharacters.test();
     }
     public static void pt(boolean t){
         if(!t){
