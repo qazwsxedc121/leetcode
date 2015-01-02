@@ -11,7 +11,8 @@ public class Test {
 //        ReverseInteger.test();
 //        TwoSum.test();
 //        MedianOfTwoSortedArrays.test();
-        LongestSubstringWithoutRepeatingCharacters.test();
+//        LongestSubstringWithoutRepeatingCharacters.test();
+        LongestPalindromicSubstring.test();
     }
     public static void pt(boolean t){
         if(!t){
