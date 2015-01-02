@@ -12,7 +12,8 @@ public class Test {
 //        TwoSum.test();
 //        MedianOfTwoSortedArrays.test();
 //        LongestSubstringWithoutRepeatingCharacters.test();
-        LongestPalindromicSubstring.test();
+//        LongestPalindromicSubstring.test();
+        ZigZagConversion.test();
     }
     public static void pt(boolean t){
         if(!t){
