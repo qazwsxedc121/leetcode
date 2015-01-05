@@ -14,7 +14,8 @@ public class Test {
 //        LongestSubstringWithoutRepeatingCharacters.test();
 //        LongestPalindromicSubstring.test();
 //        ZigZagConversion.test();
-        PalindromeNumber.test();
+//        PalindromeNumber.test();
+        RegularExpressionMatching.test();
     }
     public static void pt(boolean t){
         if(!t){
