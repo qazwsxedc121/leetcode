@@ -17,7 +17,8 @@ public class Test {
 //        PalindromeNumber.test();
 //        RegularExpressionMatching.test();
 //        ContainerWithMostWater.test();
-        IntegerToRoman.test();
+//        IntegerToRoman.test();
+        RomanToInteger.test();
     }
     public static void pt(boolean t){
         if(!t){
