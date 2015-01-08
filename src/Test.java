@@ -18,7 +18,9 @@ public class Test {
 //        RegularExpressionMatching.test();
 //        ContainerWithMostWater.test();
 //        IntegerToRoman.test();
-        RomanToInteger.test();
+//        RomanToInteger.test();
+//        LongestCommonPrefix.test();
+        ThreeSum.test();
     }
     public static void pt(boolean t){
         if(!t){
