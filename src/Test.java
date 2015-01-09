@@ -21,7 +21,8 @@ public class Test {
 //        RomanToInteger.test();
 //        LongestCommonPrefix.test();
 //        ThreeSum.test();
-        ThreeSumClosest.test();
+//        ThreeSumClosest.test();
+        LetterCominationsOfAPhoneNumber.test();
     }
     public static void pt(boolean t){
         if(!t){
