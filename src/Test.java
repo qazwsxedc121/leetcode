@@ -25,7 +25,9 @@ public class Test {
 //        LetterCominationsOfAPhoneNumber.test();
 //        FourSum.test();
 //        RemoveNthNodeFromEndOfList.test();
-        ValidParentheses.test();
+//        ValidParentheses.test();
+//        MergeTwoSortedLists.test();
+        GenerateParentheses.test();
     }
     public static void pt(boolean t){
         if(!t){
