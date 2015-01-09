@@ -11,6 +11,15 @@ class ListNode {
         val = x;
         next = null;
     }
+    public String toString(){
+        String x = ""+val;
+        ListNode n = this.next;
+        while(n != null){
+            x = x + "->" + n.val;
+            n = n.next;
+        }
+        return x;
+    }
 }
 
 public class AddTwoNumbers {
