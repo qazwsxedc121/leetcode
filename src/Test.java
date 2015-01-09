@@ -20,7 +20,8 @@ public class Test {
 //        IntegerToRoman.test();
 //        RomanToInteger.test();
 //        LongestCommonPrefix.test();
-        ThreeSum.test();
+//        ThreeSum.test();
+        ThreeSumClosest.test();
     }
     public static void pt(boolean t){
         if(!t){
