@@ -22,7 +22,8 @@ public class Test {
 //        LongestCommonPrefix.test();
 //        ThreeSum.test();
 //        ThreeSumClosest.test();
-        LetterCominationsOfAPhoneNumber.test();
+//        LetterCominationsOfAPhoneNumber.test();
+        FourSum.test();
     }
     public static void pt(boolean t){
         if(!t){
