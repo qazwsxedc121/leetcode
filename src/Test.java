@@ -23,7 +23,9 @@ public class Test {
 //        ThreeSum.test();
 //        ThreeSumClosest.test();
 //        LetterCominationsOfAPhoneNumber.test();
-        FourSum.test();
+//        FourSum.test();
+//        RemoveNthNodeFromEndOfList.test();
+        ValidParentheses.test();
     }
     public static void pt(boolean t){
         if(!t){
