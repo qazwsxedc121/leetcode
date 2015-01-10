@@ -27,7 +27,8 @@ public class Test {
 //        RemoveNthNodeFromEndOfList.test();
 //        ValidParentheses.test();
 //        MergeTwoSortedLists.test();
-        GenerateParentheses.test();
+//        GenerateParentheses.test();
+        MergeKSortedLists.test();
     }
     public static void pt(boolean t){
         if(!t){
