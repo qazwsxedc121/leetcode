@@ -28,7 +28,8 @@ public class Test {
 //        ValidParentheses.test();
 //        MergeTwoSortedLists.test();
 //        GenerateParentheses.test();
-        MergeKSortedLists.test();
+//        MergeKSortedLists.test();
+        SwapNodesInPairs.test();
     }
     public static void pt(boolean t){
         if(!t){
