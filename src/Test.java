@@ -29,7 +29,8 @@ public class Test {
 //        MergeTwoSortedLists.test();
 //        GenerateParentheses.test();
 //        MergeKSortedLists.test();
-        SwapNodesInPairs.test();
+//        SwapNodesInPairs.test();
+        ReverseNodesInKGroup.test();
     }
     public static void pt(boolean t){
         if(!t){
