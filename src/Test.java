@@ -31,7 +31,8 @@ public class Test {
 //        MergeKSortedLists.test();
 //        SwapNodesInPairs.test();
 //        ReverseNodesInKGroup.test();
-        RemoveDuplicatesFromSortedArray.test();
+//        RemoveDuplicatesFromSortedArray.test();
+        RemoveElement.test();
     }
     public static void pt(boolean t){
         if(!t){
