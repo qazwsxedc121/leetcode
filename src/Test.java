@@ -30,7 +30,8 @@ public class Test {
 //        GenerateParentheses.test();
 //        MergeKSortedLists.test();
 //        SwapNodesInPairs.test();
-        ReverseNodesInKGroup.test();
+//        ReverseNodesInKGroup.test();
+        RemoveDuplicatesFromSortedArray.test();
     }
     public static void pt(boolean t){
         if(!t){
