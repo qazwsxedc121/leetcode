@@ -32,7 +32,8 @@ public class Test {
 //        SwapNodesInPairs.test();
 //        ReverseNodesInKGroup.test();
 //        RemoveDuplicatesFromSortedArray.test();
-        RemoveElement.test();
+//        RemoveElement.test();
+        ImplementStrStr.test();
     }
     public static void pt(boolean t){
         if(!t){
