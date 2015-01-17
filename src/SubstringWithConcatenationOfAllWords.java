@@ -33,14 +33,14 @@ public class SubstringWithConcatenationOfAllWords {
             if(map.containsKey(toCompare)){
                 boolean flag = false;
                 for(int j = 0; j < bitmap.length; j += 1){
-                    if(bitmap[j] == true) continue;
-                    if(L[j].equals(toCompare) && bitmap[j] == false){
+                    if(bitmap[j]) continue;
+                    if(L[j].equals(toCompare) && !bitmap[j]){
                         bitmap[j] = true;
                         flag = true;
                         break;
                     }
                 }
-                if(flag == false) return false;
+                if(!flag) return false;
 
             }else{
                 return false;

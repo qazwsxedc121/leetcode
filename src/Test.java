@@ -35,7 +35,8 @@ public class Test {
 //        RemoveElement.test();
 //        ImplementStrStr.test();
 //        DivideTwoIntegers.test();
-        SubstringWithConcatenationOfAllWords.test();
+//        SubstringWithConcatenationOfAllWords.test();
+        NextPermutation.test();
     }
     public static void pt(boolean t){
         if(!t){
