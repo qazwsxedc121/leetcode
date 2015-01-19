@@ -14,7 +14,32 @@ public class Test {
 //        LongestSubstringWithoutRepeatingCharacters.test();
 //        LongestPalindromicSubstring.test();
 //        ZigZagConversion.test();
-        StringToInteger.test();
+//        PalindromeNumber.test();
+//        RegularExpressionMatching.test();
+//        ContainerWithMostWater.test();
+//        IntegerToRoman.test();
+//        RomanToInteger.test();
+//        LongestCommonPrefix.test();
+//        ThreeSum.test();
+//        ThreeSumClosest.test();
+//        LetterCominationsOfAPhoneNumber.test();
+//        FourSum.test();
+//        RemoveNthNodeFromEndOfList.test();
+//        ValidParentheses.test();
+//        MergeTwoSortedLists.test();
+//        GenerateParentheses.test();
+//        MergeKSortedLists.test();
+//        SwapNodesInPairs.test();
+//        ReverseNodesInKGroup.test();
+//        RemoveDuplicatesFromSortedArray.test();
+//        RemoveElement.test();
+//        ImplementStrStr.test();
+//        DivideTwoIntegers.test();
+//        SubstringWithConcatenationOfAllWords.test();
+//        NextPermutation.test();
+//        LongestValidParentheses.test();
+//        SearchInRotatedSortedArray.test();
+        SearchInsertPosition.test();
     }
     public static void pt(boolean t){
         if(!t){
