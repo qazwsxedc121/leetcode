@@ -38,7 +38,8 @@ public class Test {
 //        SubstringWithConcatenationOfAllWords.test();
 //        NextPermutation.test();
 //        LongestValidParentheses.test();
-        SearchInRotatedSortedArray.test();
+//        SearchInRotatedSortedArray.test();
+        SearchForARange.test();
     }
     public static void pt(boolean t){
         if(!t){
