@@ -13,7 +13,8 @@ public class Test {
 //        MedianOfTwoSortedArrays.test();
 //        LongestSubstringWithoutRepeatingCharacters.test();
 //        LongestPalindromicSubstring.test();
-        ZigZagConversion.test();
+//        ZigZagConversion.test();
+        StringToInteger.test();
     }
     public static void pt(boolean t){
         if(!t){
