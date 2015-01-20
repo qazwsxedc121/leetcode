@@ -39,7 +39,9 @@ public class Test {
 //        NextPermutation.test();
 //        LongestValidParentheses.test();
 //        SearchInRotatedSortedArray.test();
-        SearchInsertPosition.test();
+//        SearchInsertPosition.test();
+//        SudokuSolver.test();
+        CountAndSay.test();
     }
     public static void pt(boolean t){
         if(!t){
