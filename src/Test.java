@@ -39,7 +39,7 @@ public class Test {
 //        NextPermutation.test();
 //        LongestValidParentheses.test();
 //        SearchInRotatedSortedArray.test();
-        SearchForARange.test();
+        SearchInsertPosition.test();
     }
     public static void pt(boolean t){
         if(!t){
