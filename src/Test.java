@@ -41,7 +41,8 @@ public class Test {
 //        SearchInRotatedSortedArray.test();
 //        SearchInsertPosition.test();
 //        SudokuSolver.test();
-        CountAndSay.test();
+//        CountAndSay.test();
+        CombinationSum.test();
     }
     public static void pt(boolean t){
         if(!t){
