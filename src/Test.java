@@ -42,7 +42,8 @@ public class Test {
 //        SearchInsertPosition.test();
 //        SudokuSolver.test();
 //        CountAndSay.test();
-        CombinationSum.test();
+//        CombinationSum.test();
+        CombinationSumII.test();
     }
     public static void pt(boolean t){
         if(!t){
