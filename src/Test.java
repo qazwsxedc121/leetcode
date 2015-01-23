@@ -44,7 +44,8 @@ public class Test {
 //        CountAndSay.test();
 //        CombinationSum.test();
 //        CombinationSumII.test();
-        FirstMissingPositive.test();
+//        FirstMissingPositive.test();
+        TrappingRainWater.test();
     }
     public static void pt(boolean t){
         if(!t){
