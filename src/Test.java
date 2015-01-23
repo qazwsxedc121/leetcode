@@ -40,10 +40,10 @@ public class Test {
 //        LongestValidParentheses.test();
 //        SearchInRotatedSortedArray.test();
 //        SearchInsertPosition.test();
-//        SudokuSolver.test();
+        SudokuSolver.test();
 //        CountAndSay.test();
 //        CombinationSum.test();
-        CombinationSumII.test();
+//        CombinationSumII.test();
     }
     public static void pt(boolean t){
         if(!t){
