@@ -45,7 +45,8 @@ public class Test {
 //        CombinationSum.test();
 //        CombinationSumII.test();
 //        FirstMissingPositive.test();
-        TrappingRainWater.test();
+//        TrappingRainWater.test();
+        MultiplyStrings.test();
     }
     public static void pt(boolean t){
         if(!t){
