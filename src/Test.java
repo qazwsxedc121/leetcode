@@ -47,7 +47,8 @@ public class Test {
 //        FirstMissingPositive.test();
 //        TrappingRainWater.test();
 //        MultiplyStrings.test();
-        Permutations.test();
+//        Permutations.test();
+        WildcardMatching.test();
     }
     public static void pt(boolean t){
         if(!t){
