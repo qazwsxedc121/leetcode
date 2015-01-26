@@ -48,7 +48,8 @@ public class Test {
 //        TrappingRainWater.test();
 //        MultiplyStrings.test();
 //        Permutations.test();
-        WildcardMatching.test();
+//        WildcardMatching.test();
+        JumpGame.test();
     }
     public static void pt(boolean t){
         if(!t){
