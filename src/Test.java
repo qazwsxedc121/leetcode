@@ -49,7 +49,8 @@ public class Test {
 //        MultiplyStrings.test();
 //        Permutations.test();
 //        WildcardMatching.test();
-        JumpGame.test();
+//        JumpGame.test();
+        JumpGameII.test();
     }
     public static void pt(boolean t){
         if(!t){
