@@ -51,7 +51,8 @@ public class Test {
 //        WildcardMatching.test();
 //        JumpGame.test();
 //        JumpGameII.test();
-        PermutationsII.test();
+//        PermutationsII.test();
+        RotateImage.test();
     }
     public static void pt(boolean t){
         if(!t){
