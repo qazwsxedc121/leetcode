@@ -52,7 +52,8 @@ public class Test {
 //        JumpGame.test();
 //        JumpGameII.test();
 //        PermutationsII.test();
-        RotateImage.test();
+//        RotateImage.test();
+        Anagrams.test();
     }
     public static void pt(boolean t){
         if(!t){
