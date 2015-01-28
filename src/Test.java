@@ -50,7 +50,8 @@ public class Test {
 //        Permutations.test();
 //        WildcardMatching.test();
 //        JumpGame.test();
-        JumpGameII.test();
+//        JumpGameII.test();
+        PermutationsII.test();
     }
     public static void pt(boolean t){
         if(!t){
