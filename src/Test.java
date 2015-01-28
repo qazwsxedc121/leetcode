@@ -53,7 +53,8 @@ public class Test {
 //        JumpGameII.test();
 //        PermutationsII.test();
 //        RotateImage.test();
-        Anagrams.test();
+//        Anagrams.test();
+        PowXN.test();
     }
     public static void pt(boolean t){
         if(!t){
