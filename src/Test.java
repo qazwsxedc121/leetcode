@@ -54,7 +54,8 @@ public class Test {
 //        PermutationsII.test();
 //        RotateImage.test();
 //        Anagrams.test();
-        PowXN.test();
+//        PowXN.test();
+        SpiralMatrix.test();
     }
     public static void pt(boolean t){
         if(!t){
