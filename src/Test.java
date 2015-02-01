@@ -55,7 +55,8 @@ public class Test {
 //        RotateImage.test();
 //        Anagrams.test();
 //        PowXN.test();
-        SpiralMatrix.test();
+//        SpiralMatrix.test();
+        NQueens.test();
     }
     public static void pt(boolean t){
         if(!t){
