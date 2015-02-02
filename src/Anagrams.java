@@ -35,7 +35,7 @@ public class Anagrams {
             }
             groupCounter += 1;
         }
-        List<String> res = new ArrayList<>();
+        List<String> res = new ArrayList<String>();
         for(int i = 1; i < strs.length; i += 1){
             if(groupStat[i] > 1){
                 for(int j = 0; j < strs.length; j += 1){

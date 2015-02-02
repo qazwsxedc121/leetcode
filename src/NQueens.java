@@ -7,7 +7,7 @@ import java.util.List;
 public class NQueens {
     public List<String[]> solveNQueens(int n ){
         boolean[][] board = new boolean[n][n];
-        result = new ArrayList<>();
+        result = new ArrayList<String[]>();
         this.n = n;
         solve(board,0);
         return result;
@@ -78,6 +78,6 @@ public class NQueens {
     }
     public static void test(){
         NQueens instance = new NQueens();
-        System.out.println(queensToString(instance.solveNQueens(4)));
+        System.out.println(queensToString(instance.solveNQueens(8)));
     }
 }

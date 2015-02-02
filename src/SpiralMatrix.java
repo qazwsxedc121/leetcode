@@ -8,11 +8,11 @@ public class SpiralMatrix {
     public List<Integer> spiralOrder(int[][] matrix){
         int m = matrix.length;
         if(m == 0)
-            return new ArrayList<>();
+            return new ArrayList<Integer>();
         int n = matrix[0].length;
         if(n == 0)
-            return new ArrayList<>();
-        List<Integer> l = new ArrayList<>();
+            return new ArrayList<Integer>();
+        List<Integer> l = new ArrayList<Integer>();
         for(int i = 0; i < (m+1)/2 && i < (n+1)/2; i += 1){
             List<Integer> li = spiralOrderLevel(matrix,i,m,n);
             for(int j = 0; j < li.size(); j += 1){
@@ -22,7 +22,7 @@ public class SpiralMatrix {
         return l;
     }
     private List<Integer> spiralOrderLevel(int[][] matrix, int lvl, int m, int n){
-        List<Integer> res = new ArrayList<>();
+        List<Integer> res = new ArrayList<Integer>();
         int x = lvl;
         int y = lvl;
         if(m/2 == lvl && n/2 == lvl){

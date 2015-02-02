@@ -56,7 +56,8 @@ public class Test {
 //        Anagrams.test();
 //        PowXN.test();
 //        SpiralMatrix.test();
-        NQueens.test();
+//        NQueens.test();
+        NQueensII.test();
     }
     public static void pt(boolean t){
         if(!t){
