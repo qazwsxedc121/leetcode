@@ -58,7 +58,8 @@ public class Test {
 //        SpiralMatrix.test();
 //        NQueens.test();
 //        NQueensII.test();
-        MergeIntervals.test();
+//        MergeIntervals.test();
+        InsertInterval.test();
     }
     public static void pt(boolean t){
         if(!t){
