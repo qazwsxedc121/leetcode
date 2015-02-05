@@ -57,7 +57,10 @@ public class Test {
 //        PowXN.test();
 //        SpiralMatrix.test();
 //        NQueens.test();
-        SpiralMatrixII.test();
+//        NQueensII.test();
+//        MergeIntervals.test();
+//        InsertInterval.test();
+        LengthOfLastWord.test();
     }
     public static void pt(boolean t){
         if(!t){
