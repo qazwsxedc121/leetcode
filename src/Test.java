@@ -60,7 +60,8 @@ public class Test {
 //        NQueensII.test();
 //        MergeIntervals.test();
 //        InsertInterval.test();
-        LengthOfLastWord.test();
+//        LengthOfLastWord.test();
+        PermutationSequence.test();
     }
     public static void pt(boolean t){
         if(!t){
