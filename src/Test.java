@@ -62,7 +62,8 @@ public class Test {
 //        InsertInterval.test();
 //        LengthOfLastWord.test();
 //        PermutationSequence.test();
-        RotateList.test();
+//        RotateList.test();
+        UniquePaths.test();
     }
     public static void pt(boolean t){
         if(!t){
