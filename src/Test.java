@@ -63,7 +63,8 @@ public class Test {
 //        LengthOfLastWord.test();
 //        PermutationSequence.test();
 //        RotateList.test();
-        UniquePaths.test();
+//        UniquePaths.test();
+        UniquePathsII.test();
     }
     public static void pt(boolean t){
         if(!t){
