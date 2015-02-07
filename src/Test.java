@@ -64,7 +64,8 @@ public class Test {
 //        PermutationSequence.test();
 //        RotateList.test();
 //        UniquePaths.test();
-        UniquePathsII.test();
+//        UniquePathsII.test();
+        MinimumPathSum.test();
     }
     public static void pt(boolean t){
         if(!t){
