@@ -61,7 +61,8 @@ public class Test {
 //        MergeIntervals.test();
 //        InsertInterval.test();
 //        LengthOfLastWord.test();
-        PermutationSequence.test();
+//        PermutationSequence.test();
+        RotateList.test();
     }
     public static void pt(boolean t){
         if(!t){
