@@ -65,7 +65,8 @@ public class Test {
 //        RotateList.test();
 //        UniquePaths.test();
 //        UniquePathsII.test();
-        MinimumPathSum.test();
+//        MinimumPathSum.test();
+        ValidNumber.test();
     }
     public static void pt(boolean t){
         if(!t){
