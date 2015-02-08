@@ -68,7 +68,8 @@ public class Test {
 //        MinimumPathSum.test();
 //        ValidNumber.test();
 //        PlusOne.test();
-        AddBinary.test();
+//        AddBinary.test();
+        TextJustification.test();
     }
     public static void pt(boolean t){
         if(!t){
