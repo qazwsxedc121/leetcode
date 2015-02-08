@@ -70,7 +70,8 @@ public class Test {
 //        PlusOne.test();
 //        AddBinary.test();
 //        TextJustification.test();
-        Sqrtx.test();
+//        Sqrtx.test();
+        ClimbingStairs.test();
     }
     public static void pt(boolean t){
         if(!t){
