@@ -69,7 +69,8 @@ public class Test {
 //        ValidNumber.test();
 //        PlusOne.test();
 //        AddBinary.test();
-        TextJustification.test();
+//        TextJustification.test();
+        Sqrtx.test();
     }
     public static void pt(boolean t){
         if(!t){
