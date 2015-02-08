@@ -72,7 +72,8 @@ public class Test {
 //        TextJustification.test();
 //        Sqrtx.test();
 //        ClimbingStairs.test();
-        SimplifyPath.test();
+//        SimplifyPath.test();
+        EditDistance.test();
     }
     public static void pt(boolean t){
         if(!t){
