@@ -66,7 +66,8 @@ public class Test {
 //        UniquePaths.test();
 //        UniquePathsII.test();
 //        MinimumPathSum.test();
-        ValidNumber.test();
+//        ValidNumber.test();
+        PlusOne.test();
     }
     public static void pt(boolean t){
         if(!t){
