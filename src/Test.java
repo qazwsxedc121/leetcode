@@ -67,7 +67,8 @@ public class Test {
 //        UniquePathsII.test();
 //        MinimumPathSum.test();
 //        ValidNumber.test();
-        PlusOne.test();
+//        PlusOne.test();
+        AddBinary.test();
     }
     public static void pt(boolean t){
         if(!t){
