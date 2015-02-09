@@ -74,7 +74,8 @@ public class Test {
 //        ClimbingStairs.test();
 //        SimplifyPath.test();
 //        EditDistance.test();
-        SetMatrixZeroes.test();
+//        SetMatrixZeroes.test();
+        SearchA2dMatrix.test();
     }
     public static void pt(boolean t){
         if(!t){
