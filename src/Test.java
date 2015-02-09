@@ -73,7 +73,8 @@ public class Test {
 //        Sqrtx.test();
 //        ClimbingStairs.test();
 //        SimplifyPath.test();
-        EditDistance.test();
+//        EditDistance.test();
+        SetMatrixZeroes.test();
     }
     public static void pt(boolean t){
         if(!t){
