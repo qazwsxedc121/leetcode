@@ -76,7 +76,8 @@ public class Test {
 //        EditDistance.test();
 //        SetMatrixZeroes.test();
 //        SearchA2dMatrix.test();
-        SortColors.test();
+//        SortColors.test();
+        Combinations.test();
     }
     public static void pt(boolean t){
         if(!t){
