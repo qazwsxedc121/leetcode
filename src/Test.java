@@ -77,7 +77,8 @@ public class Test {
 //        SetMatrixZeroes.test();
 //        SearchA2dMatrix.test();
 //        SortColors.test();
-        Combinations.test();
+//        Combinations.test();
+        Subsets.test();
     }
     public static void pt(boolean t){
         if(!t){
