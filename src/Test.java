@@ -78,7 +78,8 @@ public class Test {
 //        SearchA2dMatrix.test();
 //        SortColors.test();
 //        Combinations.test();
-        Subsets.test();
+//        Subsets.test();
+        WordSearch.test();
     }
     public static void pt(boolean t){
         if(!t){
