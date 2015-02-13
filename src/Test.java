@@ -80,7 +80,8 @@ public class Test {
 //        Combinations.test();
 //        Subsets.test();
 //        WordSearch.test();
-        RemoveDuplicatesFromSortedArrayII.test();
+//        RemoveDuplicatesFromSortedArrayII.test();
+        MinimumWindowSubstring.test();
     }
     public static void pt(boolean t){
         if(!t){
