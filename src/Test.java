@@ -83,7 +83,8 @@ public class Test {
 //        RemoveDuplicatesFromSortedArrayII.test();
 //        MinimumWindowSubstring.test();
 //        SearchInRotatedSortedArrayII.test();
-        RemoveDuplicatesFromSortedList.test();
+//        RemoveDuplicatesFromSortedList.test();
+        RemoveDuplicatesFromSortedListII.test();
 
     }
     public static void pt(boolean t){
