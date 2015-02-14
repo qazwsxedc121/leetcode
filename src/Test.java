@@ -82,7 +82,9 @@ public class Test {
 //        WordSearch.test();
 //        RemoveDuplicatesFromSortedArrayII.test();
 //        MinimumWindowSubstring.test();
-        SearchInRotatedSortedArrayII.test();
+//        SearchInRotatedSortedArrayII.test();
+        RemoveDuplicatesFromSortedList.test();
+
     }
     public static void pt(boolean t){
         if(!t){
