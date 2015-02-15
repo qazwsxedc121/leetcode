@@ -84,7 +84,8 @@ public class Test {
 //        MinimumWindowSubstring.test();
 //        SearchInRotatedSortedArrayII.test();
 //        RemoveDuplicatesFromSortedList.test();
-        RemoveDuplicatesFromSortedListII.test();
+//        RemoveDuplicatesFromSortedListII.test();
+        LargestRectangleInHistogram.test();
 
     }
     public static void pt(boolean t){
