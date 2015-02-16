@@ -85,7 +85,8 @@ public class Test {
 //        SearchInRotatedSortedArrayII.test();
 //        RemoveDuplicatesFromSortedList.test();
 //        RemoveDuplicatesFromSortedListII.test();
-        LargestRectangleInHistogram.test();
+//        LargestRectangleInHistogram.test();
+        PartitionList.test();
 
     }
     public static void pt(boolean t){
