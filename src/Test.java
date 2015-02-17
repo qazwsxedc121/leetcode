@@ -86,7 +86,9 @@ public class Test {
 //        RemoveDuplicatesFromSortedList.test();
 //        RemoveDuplicatesFromSortedListII.test();
 //        LargestRectangleInHistogram.test();
-        PartitionList.test();
+//        PartitionList.test();
+//        MergeSortedArray.test();
+        GrayCode.test();
 
     }
     public static void pt(boolean t){

@@ -1,8 +1,5 @@
-/**
- * User: guoxc
- * Date: 15-2-17
- * Time: 11:10
- */
+import java.util.Arrays;
+
 public class MergeSortedArray {
     public void merge(int A[], int m, int B[], int n) {
         int[] temp = new int[m];
@@ -34,7 +31,13 @@ public class MergeSortedArray {
             pb += 1;
             pi += 1;
         }
-
+    }
+    public static void test(){
+        int[] A = new int[]{1,2,3,4,4,5,8,9,0,0,0,0};
+        int[] B = new int[]{2,5,10,13};
+        MergeSortedArray m = new MergeSortedArray();
+        m.merge(A,8,B,4);
+        System.out.println(Arrays.toString(A));
     }
 
 }
