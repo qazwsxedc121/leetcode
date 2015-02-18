@@ -89,7 +89,8 @@ public class Test {
 //        PartitionList.test();
 //        MergeSortedArray.test();
 //        GrayCode.test();
-        SubsetsII.test();
+//        SubsetsII.test();
+        DecodeWays.test();
     }
     public static void pt(boolean t){
         if(!t){
