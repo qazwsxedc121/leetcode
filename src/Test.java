@@ -90,7 +90,9 @@ public class Test {
 //        MergeSortedArray.test();
 //        GrayCode.test();
 //        SubsetsII.test();
-        DecodeWays.test();
+//        DecodeWays.test();
+//        MaximalRectangle.test();
+        ReverseLinkedListII.test();
     }
     public static void pt(boolean t){
         if(!t){
