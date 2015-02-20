@@ -92,7 +92,8 @@ public class Test {
 //        SubsetsII.test();
 //        DecodeWays.test();
 //        MaximalRectangle.test();
-        ReverseLinkedListII.test();
+//        ReverseLinkedListII.test();
+        RestoreIPAddresses.test();
     }
     public static void pt(boolean t){
         if(!t){
