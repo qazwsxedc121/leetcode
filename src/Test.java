@@ -93,7 +93,8 @@ public class Test {
 //        DecodeWays.test();
 //        MaximalRectangle.test();
 //        ReverseLinkedListII.test();
-        RestoreIPAddresses.test();
+//        RestoreIPAddresses.test();
+        BinaryTreeInorderTraversal.test();
     }
     public static void pt(boolean t){
         if(!t){
