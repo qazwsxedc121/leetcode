@@ -94,7 +94,8 @@ public class Test {
 //        MaximalRectangle.test();
 //        ReverseLinkedListII.test();
 //        RestoreIPAddresses.test();
-        BinaryTreeInorderTraversal.test();
+//        BinaryTreeInorderTraversal.test();
+        UniqueBinarySearchTrees.test();
     }
     public static void pt(boolean t){
         if(!t){
