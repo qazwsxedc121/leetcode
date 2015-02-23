@@ -11,6 +11,21 @@ class TreeNode {
     TreeNode(int x){
         val = x;
     }
+    public String toString(){
+        String res = "" + val;
+        if(left != null){
+            res += "," + left.toString();
+        }else{
+            res += ",#";
+        }
+        if(right != null){
+            res += "," + right.toString();
+        }else{
+            res += ",#";
+        }
+        return res;
+
+    }
 }
 
 public class MaximumDepthOfBinaryTree {

@@ -95,7 +95,8 @@ public class Test {
 //        ReverseLinkedListII.test();
 //        RestoreIPAddresses.test();
 //        BinaryTreeInorderTraversal.test();
-        UniqueBinarySearchTrees.test();
+//        UniqueBinarySearchTrees.test();
+        UniqueBinarySearchTreesII.test();
     }
     public static void pt(boolean t){
         if(!t){
