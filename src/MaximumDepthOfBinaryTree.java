@@ -1,3 +1,6 @@
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
  * User: guoxc
  * Date: 14-10-9
@@ -12,19 +15,21 @@ class TreeNode {
         val = x;
     }
     public String toString(){
-        String res = "" + val;
-        if(left != null){
-            res += "," + left.toString();
-        }else{
-            res += ",#";
+        Queue<TreeNode> q = new LinkedList<TreeNode>();
+        String res = "\"";
+        q.add(this);
+        while(q.size() > 0){
+            TreeNode node = q.poll();
+            if(node == null){
+                res += "#,";
+            }else{
+                res +=  node.val + ",";
+                q.add(node.left);
+                q.add(node.right);
+            }
         }
-        if(right != null){
-            res += "," + right.toString();
-        }else{
-            res += ",#";
-        }
+        res = res.substring(0,res.length()-1) + "\"";
         return res;
-
     }
 }
 
