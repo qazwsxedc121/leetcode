@@ -98,7 +98,8 @@ public class Test {
 //        UniqueBinarySearchTrees.test();
 //        UniqueBinarySearchTreesII.test();
 //        BinaryTreeLevelOrderTraversal.test();
-        BinaryTreeZigzagLevelOrderTraversal.test();
+//        BinaryTreeZigzagLevelOrderTraversal.test();
+        ConvertSortedArrayToBinarySearchTree.test();
     }
     public static void pt(boolean t){
         if(!t){
