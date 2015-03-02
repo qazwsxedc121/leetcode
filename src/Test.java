@@ -101,7 +101,8 @@ public class Test {
 //        BinaryTreeZigzagLevelOrderTraversal.test();
 //        ConvertSortedArrayToBinarySearchTree.test();
 //        ConvertSortedListToBinarySearchTree.test();
-        InterleavingString.test();
+//        InterleavingString.test();
+        ConstructBinaryTreeFromPreorderAndInorderTraversal.test();
     }
     public static void pt(boolean t){
         if(!t){
