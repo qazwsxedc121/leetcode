@@ -102,7 +102,8 @@ public class Test {
 //        ConvertSortedArrayToBinarySearchTree.test();
 //        ConvertSortedListToBinarySearchTree.test();
 //        InterleavingString.test();
-        ConstructBinaryTreeFromPreorderAndInorderTraversal.test();
+//        ConstructBinaryTreeFromPreorderAndInorderTraversal.test();
+        ConstructBinaryTreeFromInorderAndPostorderTraversal.test();
     }
     public static void pt(boolean t){
         if(!t){
