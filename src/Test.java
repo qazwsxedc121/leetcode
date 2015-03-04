@@ -105,7 +105,8 @@ public class Test {
 //        ConstructBinaryTreeFromPreorderAndInorderTraversal.test();
 //        ConstructBinaryTreeFromInorderAndPostorderTraversal.test();
 //        DistinctSubsequences.test();
-        PopulatingNextRightPointersInEachNodeII.test();
+//        PopulatingNextRightPointersInEachNodeII.test();
+        Triangle.test();
     }
     public static void pt(boolean t){
         if(!t){
