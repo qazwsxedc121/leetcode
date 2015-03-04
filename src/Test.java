@@ -104,7 +104,8 @@ public class Test {
 //        InterleavingString.test();
 //        ConstructBinaryTreeFromPreorderAndInorderTraversal.test();
 //        ConstructBinaryTreeFromInorderAndPostorderTraversal.test();
-        ScrambleString.test();
+//        DistinctSubsequences.test();
+        PopulatingNextRightPointersInEachNodeII.test();
     }
     public static void pt(boolean t){
         if(!t){
