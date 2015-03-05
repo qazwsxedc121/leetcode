@@ -106,7 +106,8 @@ public class Test {
 //        ConstructBinaryTreeFromInorderAndPostorderTraversal.test();
 //        DistinctSubsequences.test();
 //        PopulatingNextRightPointersInEachNodeII.test();
-        Triangle.test();
+//        Triangle.test();
+        BestTimeToBuyAndSellStock.test();
     }
     public static void pt(boolean t){
         if(!t){
