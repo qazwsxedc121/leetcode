@@ -107,7 +107,8 @@ public class Test {
 //        DistinctSubsequences.test();
 //        PopulatingNextRightPointersInEachNodeII.test();
 //        Triangle.test();
-        BestTimeToBuyAndSellStock.test();
+//        BestTimeToBuyAndSellStock.test();
+        RecoverBinarySearchTree.test();
     }
     public static void pt(boolean t){
         if(!t){
