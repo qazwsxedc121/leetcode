@@ -109,7 +109,8 @@ public class Test {
 //        Triangle.test();
 //        BestTimeToBuyAndSellStock.test();
 //        RecoverBinarySearchTree.test();
-        BestTimeToBuyAndSellStockIII.test();
+//        BestTimeToBuyAndSellStockIII.test();
+        WordLadder.test();
     }
     public static void pt(boolean t){
         if(!t){
