@@ -112,7 +112,8 @@ public class Test {
 //        BestTimeToBuyAndSellStockIII.test();
 //        WordLadder.test();
 //        LongestConsecutiveSequence.test();
-        SumRootToLeafNumbers.test();
+//        SumRootToLeafNumbers.test();
+        SurroundedRegions.test();
     }
     public static void pt(boolean t){
         if(!t){
