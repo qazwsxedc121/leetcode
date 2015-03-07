@@ -111,7 +111,8 @@ public class Test {
 //        RecoverBinarySearchTree.test();
 //        BestTimeToBuyAndSellStockIII.test();
 //        WordLadder.test();
-        LongestConsecutiveSequence.test();
+//        LongestConsecutiveSequence.test();
+        SumRootToLeafNumbers.test();
     }
     public static void pt(boolean t){
         if(!t){
