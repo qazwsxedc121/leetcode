@@ -110,7 +110,8 @@ public class Test {
 //        BestTimeToBuyAndSellStock.test();
 //        RecoverBinarySearchTree.test();
 //        BestTimeToBuyAndSellStockIII.test();
-        WordLadder.test();
+//        WordLadder.test();
+        LongestConsecutiveSequence.test();
     }
     public static void pt(boolean t){
         if(!t){
