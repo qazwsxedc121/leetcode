@@ -113,7 +113,8 @@ public class Test {
 //        WordLadder.test();
 //        LongestConsecutiveSequence.test();
 //        SumRootToLeafNumbers.test();
-        SurroundedRegions.test();
+//        SurroundedRegions.test();
+        PalindromePartitioning.test();
     }
     public static void pt(boolean t){
         if(!t){
