@@ -114,7 +114,8 @@ public class Test {
 //        LongestConsecutiveSequence.test();
 //        SumRootToLeafNumbers.test();
 //        SurroundedRegions.test();
-        PalindromePartitioning.test();
+//        PalindromePartitioning.test();
+        PalindromePartitioningII.test();
     }
     public static void pt(boolean t){
         if(!t){
