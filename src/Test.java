@@ -115,7 +115,8 @@ public class Test {
 //        SumRootToLeafNumbers.test();
 //        SurroundedRegions.test();
 //        PalindromePartitioning.test();
-        PalindromePartitioningII.test();
+//        PalindromePartitioningII.test();
+        Candy.test();
     }
     public static void pt(boolean t){
         if(!t){
