@@ -116,7 +116,8 @@ public class Test {
 //        SurroundedRegions.test();
 //        PalindromePartitioning.test();
 //        PalindromePartitioningII.test();
-        Candy.test();
+//        Candy.test();
+        WordBreakII.test();
     }
     public static void pt(boolean t){
         if(!t){
