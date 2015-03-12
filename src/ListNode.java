@@ -20,9 +20,11 @@ public class ListNode {
     public String toString(){
         String x = ""+val;
         ListNode n = this.next;
-        while(n != null){
+        int c = 0;
+        while(n != null && c <= 100){
             x = x + "->" + n.val;
             n = n.next;
+            c += 1;
         }
         return x;
     }

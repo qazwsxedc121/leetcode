@@ -118,7 +118,8 @@ public class Test {
 //        PalindromePartitioningII.test();
 //        Candy.test();
 //        WordBreakII.test();
-        LinkedListCycle.test();
+//        LinkedListCycle.test();
+        InsertionSortList.test();
     }
     public static void pt(boolean t){
         if(!t){
