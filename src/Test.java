@@ -119,7 +119,8 @@ public class Test {
 //        Candy.test();
 //        WordBreakII.test();
 //        LinkedListCycle.test();
-        InsertionSortList.test();
+//        InsertionSortList.test();
+        SortList.test();
     }
     public static void pt(boolean t){
         if(!t){
