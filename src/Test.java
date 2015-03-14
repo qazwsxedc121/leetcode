@@ -120,7 +120,8 @@ public class Test {
 //        WordBreakII.test();
 //        LinkedListCycle.test();
 //        InsertionSortList.test();
-        SortList.test();
+//        SortList.test();
+        MaximalRectangle.test();
     }
     public static void pt(boolean t){
         if(!t){
