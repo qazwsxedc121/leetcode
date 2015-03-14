@@ -121,7 +121,9 @@ public class Test {
 //        LinkedListCycle.test();
 //        InsertionSortList.test();
 //        SortList.test();
-        MaximalRectangle.test();
+//        MaximalRectangle.test();
+//        WordLadderII.test();
+        MaximumProductSubarray.test();
     }
     public static void pt(boolean t){
         if(!t){
