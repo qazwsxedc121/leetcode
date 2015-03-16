@@ -124,7 +124,8 @@ public class Test {
 //        MaximalRectangle.test();
 //        WordLadderII.test();
 //        MaximumProductSubarray.test();
-        MaxPointsOnALine.test();
+//        MaxPointsOnALine.test();
+
     }
     public static void pt(boolean t){
         if(!t){
