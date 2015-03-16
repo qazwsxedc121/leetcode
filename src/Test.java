@@ -126,7 +126,8 @@ public class Test {
 //        MaximumProductSubarray.test();
 //        MaxPointsOnALine.test();
 //        MaximumGap.test();
-        FindPeakElement.test();
+//        FindPeakElement.test();
+        CompareVersionNumbers.test();
     }
     public static void pt(boolean t){
         if(!t){
