@@ -127,7 +127,8 @@ public class Test {
 //        MaxPointsOnALine.test();
 //        MaximumGap.test();
 //        FindPeakElement.test();
-        CompareVersionNumbers.test();
+//        CompareVersionNumbers.test();
+        FractionToRecurringDecimal.test();
     }
     public static void pt(boolean t){
         if(!t){
