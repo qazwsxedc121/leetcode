@@ -9,17 +9,36 @@ public class FindPeakElement {
         }else if(n == 1){
             return 0;
         }
-        if(num[1] < num[0]){
+        if(num[0] > num[1]){
             return 0;
-        }
-        if(num[n-1] > num[n-2]){
+        }else if(num[n-1] > num[n-2]){
             return n-1;
         }
-        for(int i = 1; i < n - 1; i += 1){
-            if(num[i] > num[i - 1] && num[i] > num[i + 1]){
-                return i;
+        int l = 0;
+        int r = n - 1;
+        int mid = (l + r) / 2;
+        while(l < r){
+            if(isPeak(num,l)){
+                return l;
+            }else if(isPeak(num,r)){
+                return r;
+            }else if(isPeak(num,mid)){
+                return mid;
+            }else if(num[mid] < num[mid - 1]){
+                r = mid - 1;
+                mid = (l + r + 1) / 2;
+            }else{
+                l = mid + 1;
+                mid = (l + r - 1) / 2;
             }
         }
         return -1;
+    }
+    private boolean isPeak(int[] num, int i){
+        return i > 0 && i < num.length && num[i] > num[i-1] && num[i] > num[i+1];
+    }
+    public static void test(){
+        FindPeakElement f = new FindPeakElement();
+        System.out.println(f.findPeakElement(new int[]{3,4,3,2,1}));
     }
 }
