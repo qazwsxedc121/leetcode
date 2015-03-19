@@ -130,7 +130,8 @@ public class Test {
 //        CompareVersionNumbers.test();
 //        FractionToRecurringDecimal.test();
 //        ExcelSheetColumnTitle.test();
-        BinarySearchTreeIterator.test();
+//        BinarySearchTreeIterator.test();
+        DungeonGame.test();
     }
     public static void pt(boolean t){
         if(!t){
