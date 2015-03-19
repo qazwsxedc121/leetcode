@@ -129,7 +129,8 @@ public class Test {
 //        FindPeakElement.test();
 //        CompareVersionNumbers.test();
 //        FractionToRecurringDecimal.test();
-        ExcelSheetColumnTitle.test();
+//        ExcelSheetColumnTitle.test();
+        BinarySearchTreeIterator.test();
     }
     public static void pt(boolean t){
         if(!t){
