@@ -132,7 +132,8 @@ public class Test {
 //        ExcelSheetColumnTitle.test();
 //        BinarySearchTreeIterator.test();
 //        DungeonGame.test();
-        LargestNumber.test();
+//        LargestNumber.test();
+        RepeatedDNASequences.test();
     }
     public static void pt(boolean t){
         if(!t){
