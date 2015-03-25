@@ -133,7 +133,8 @@ public class Test {
 //        BinarySearchTreeIterator.test();
 //        DungeonGame.test();
 //        LargestNumber.test();
-        RepeatedDNASequences.test();
+//        RepeatedDNASequences.test();
+        ReverseBits.test();
     }
     public static void pt(boolean t){
         if(!t){
