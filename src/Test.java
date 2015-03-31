@@ -134,7 +134,8 @@ public class Test {
 //        DungeonGame.test();
 //        LargestNumber.test();
 //        RepeatedDNASequences.test();
-        ReverseBits.test();
+//        ReverseBits.test();
+        HouseRobber.test();
     }
     public static void pt(boolean t){
         if(!t){
