@@ -135,7 +135,8 @@ public class Test {
 //        LargestNumber.test();
 //        RepeatedDNASequences.test();
 //        ReverseBits.test();
-        HouseRobber.test();
+//        HouseRobber.test();
+        NumberOfIslands.test();
     }
     public static void pt(boolean t){
         if(!t){
