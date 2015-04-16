@@ -136,7 +136,8 @@ public class Test {
 //        RepeatedDNASequences.test();
 //        ReverseBits.test();
 //        HouseRobber.test();
-        NumberOfIslands.test();
+//        NumberOfIslands.test();
+        BitwiseAndOfNumbersRange.test();
     }
     public static void pt(boolean t){
         if(!t){
