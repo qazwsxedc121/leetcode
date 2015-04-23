@@ -137,7 +137,8 @@ public class Test {
 //        ReverseBits.test();
 //        HouseRobber.test();
 //        NumberOfIslands.test();
-        BitwiseAndOfNumbersRange.test();
+//        BitwiseAndOfNumbersRange.test();
+        HappyNumber.test();
     }
     public static void pt(boolean t){
         if(!t){
