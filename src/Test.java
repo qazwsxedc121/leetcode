@@ -138,7 +138,8 @@ public class Test {
 //        HouseRobber.test();
 //        NumberOfIslands.test();
 //        BitwiseAndOfNumbersRange.test();
-        HappyNumber.test();
+//        HappyNumber.test();
+        CountPrimes.test();
     }
     public static void pt(boolean t){
         if(!t){
