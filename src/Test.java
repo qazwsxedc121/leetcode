@@ -139,7 +139,8 @@ public class Test {
 //        NumberOfIslands.test();
 //        BitwiseAndOfNumbersRange.test();
 //        HappyNumber.test();
-        CountPrimes.test();
+//        CountPrimes.test();
+          IsomorphicStrings.test();
     }
     public static void pt(boolean t){
         if(!t){
