@@ -140,7 +140,8 @@ public class Test {
 //        BitwiseAndOfNumbersRange.test();
 //        HappyNumber.test();
 //        CountPrimes.test();
-          IsomorphicStrings.test();
+//          IsomorphicStrings.test();
+        CourseSchedule.test();
     }
     public static void pt(boolean t){
         if(!t){
