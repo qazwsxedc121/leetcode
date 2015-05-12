@@ -141,7 +141,8 @@ public class Test {
 //        HappyNumber.test();
 //        CountPrimes.test();
 //          IsomorphicStrings.test();
-        CourseSchedule.test();
+//        CourseSchedule.test();
+        MinimumSizeSubarraySum.test();
     }
     public static void pt(boolean t){
         if(!t){
