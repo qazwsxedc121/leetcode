@@ -143,6 +143,7 @@ public class Test {
 //          IsomorphicStrings.test();
 //        CourseSchedule.test();
         CourseScheduleII.test();
+//        MinimumSizeSubarraySum.test();
     }
     public static void pt(boolean t){
         if(!t){
