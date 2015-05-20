@@ -142,7 +142,8 @@ public class Test {
 //        CountPrimes.test();
 //          IsomorphicStrings.test();
 //        CourseSchedule.test();
-        MinimumSizeSubarraySum.test();
+        CourseScheduleII.test();
+//        MinimumSizeSubarraySum.test();
     }
     public static void pt(boolean t){
         if(!t){
