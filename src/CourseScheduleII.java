@@ -5,7 +5,7 @@ import java.util.*;
  */
 public class CourseScheduleII {
     private List<List<Integer>> graph = new ArrayList<List<Integer>>();
-    private Set<Integer> start = new HashSet<>();
+    private Set<Integer> start = new HashSet<Integer>();
     private int n;
     private int[] res;
     private int res_i;
