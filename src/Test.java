@@ -142,8 +142,9 @@ public class Test {
 //        CountPrimes.test();
 //          IsomorphicStrings.test();
 //        CourseSchedule.test();
-        CourseScheduleII.test();
+//        CourseScheduleII.test();
 //        MinimumSizeSubarraySum.test();
+        ShortestPalindrome.test();
     }
     public static void pt(boolean t){
         if(!t){
