@@ -144,7 +144,8 @@ public class Test {
 //        CourseSchedule.test();
 //        CourseScheduleII.test();
 //        MinimumSizeSubarraySum.test();
-        ShortestPalindrome.test();
+//        ShortestPalindrome.test();
+        ContainsDuplicateIII.test();
     }
     public static void pt(boolean t){
         if(!t){
