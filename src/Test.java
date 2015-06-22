@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.Collections;
+
 /**
  * User: guoxc
  * Date: 14-10-9
@@ -145,7 +148,8 @@ public class Test {
 //        CourseScheduleII.test();
 //        MinimumSizeSubarraySum.test();
 //        ShortestPalindrome.test();
-        ContainsDuplicateIII.test();
+//        ContainsDuplicateIII.test();
+          BasicCalculatorII.test();
     }
     public static void pt(boolean t){
         if(!t){
