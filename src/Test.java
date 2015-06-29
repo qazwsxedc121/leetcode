@@ -149,7 +149,8 @@ public class Test {
 //        MinimumSizeSubarraySum.test();
 //        ShortestPalindrome.test();
 //        ContainsDuplicateIII.test();
-          BasicCalculatorII.test();
+//          BasicCalculatorII.test();
+        MajorityElementII.test();
     }
     public static void pt(boolean t){
         if(!t){
