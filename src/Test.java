@@ -150,7 +150,8 @@ public class Test {
 //        ShortestPalindrome.test();
 //        ContainsDuplicateIII.test();
 //          BasicCalculatorII.test();
-        MajorityElementII.test();
+//        MajorityElementII.test();
+        NumberOfDigitOne.test();
     }
     public static void pt(boolean t){
         if(!t){
