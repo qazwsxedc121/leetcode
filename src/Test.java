@@ -151,7 +151,8 @@ public class Test {
 //        ContainsDuplicateIII.test();
 //          BasicCalculatorII.test();
 //        MajorityElementII.test();
-        NumberOfDigitOne.test();
+//        NumberOfDigitOne.test();
+        PalindromeLinkedList.test();
     }
     public static void pt(boolean t){
         if(!t){
