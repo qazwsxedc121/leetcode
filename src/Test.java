@@ -152,7 +152,8 @@ public class Test {
 //          BasicCalculatorII.test();
 //        MajorityElementII.test();
 //        NumberOfDigitOne.test();
-        PalindromeLinkedList.test();
+//        PalindromeLinkedList.test();
+        UglyNumberII.test();
     }
     public static void pt(boolean t){
         if(!t){
