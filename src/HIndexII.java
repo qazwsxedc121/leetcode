@@ -16,9 +16,9 @@ public class HIndexII {
             if(citations[mid] == n - mid){
                 return n - mid;
             }else if(citations[mid] > n - mid){
-                r -= 1;
+                r = mid - 1;
             }else{
-                l += 1;
+                l = mid + 1;
             }
         }
         if(citations[l] < n - l){
