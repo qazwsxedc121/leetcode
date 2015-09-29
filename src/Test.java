@@ -153,7 +153,8 @@ public class Test {
 //        MajorityElementII.test();
 //        NumberOfDigitOne.test();
 //        PalindromeLinkedList.test();
-        UglyNumberII.test();
+//        UglyNumberII.test();
+//        TheSkylineProblem.test();
     }
     public static void pt(boolean t){
         if(!t){
