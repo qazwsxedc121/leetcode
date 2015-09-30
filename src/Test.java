@@ -155,6 +155,7 @@ public class Test {
 //        PalindromeLinkedList.test();
 //        UglyNumberII.test();
 //        TheSkylineProblem.test();
+        WordSearchII.test();
     }
     public static void pt(boolean t){
         if(!t){
