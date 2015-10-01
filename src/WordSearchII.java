@@ -69,13 +69,14 @@ public class WordSearchII {
         Trie root = build(wordl, "");
         List<String> res = new ArrayList<String>();
         resSet = new HashSet<String>();
-        int n = board.length;
-        if(n == 0) return res;
-        int m = board[0].length;
+        int m = board.length;
         if(m == 0) return res;
+        int n = board[0].length;
+        if(n == 0) return res;
         for(int i = 0; i < m; i += 1){
             for(int j = 0; j < n; j += 1){
-                dfs(board, i, j, root);
+                int cw = board[i][j] - 'a';
+                dfs(board, i, j, root.subNodes[cw]);
             }
         }
         for(String s: resSet){
